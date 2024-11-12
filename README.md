@@ -1,24 +1,12 @@
 # Projeto Trybetunes
 
-Foi desenvolvida uma aplicação capaz de reproduzir músicas dos mais variados artistas e bandas, criar uma lista de músicas favoritas e editar o perfil da pessoa usuária logada. Essa aplicação será capaz de:
+A aplicação desenvolvida é uma plataforma de streaming de música, construída utilizando tecnologias como JavaScript, HTML, CSS e React.js. O objetivo da aplicação é proporcionar uma experiência interativa e personalizada para o usuário, permitindo que ele explore músicas de diversos artistas e bandas, organize suas músicas favoritas e edite seu perfil pessoal.
 
-  * Fazer login.
+A aplicação permite ao usuário realizar o login, pesquisar por bandas ou artistas específicos e visualizar a lista de álbuns disponíveis de cada um. Após selecionar um álbum, o usuário pode explorar suas músicas e ouvir prévias das faixas. A plataforma também oferece a possibilidade de favoritar ou desfavoritar músicas, além de exibir a lista de faixas favoritas. O usuário ainda pode visualizar e editar seu perfil, personalizando suas informações dentro da aplicação.
 
-  * Pesquisar por uma banda ou artista.
+Em termos de implementação, a interação do usuário com a aplicação é gerida por JavaScript, que lida com a lógica de manipulação de dados, como a criação de listas de músicas favoritas e a edição do perfil. A estrutura da página e os estilos visuais são definidos com HTML e CSS, proporcionando uma interface limpa e intuitiva. Para a construção da interface interativa e dinâmica, foi utilizado o React.js, que possibilita o gerenciamento de componentes e estados, tornando a navegação entre as diversas funcionalidades da aplicação rápida e eficiente. 
 
-  * Listar os álbuns disponíveis dessa banda ou artista.
-
-  * Visualizar as músicas de um álbum selecionado.
-
-  * Reproduzir uma prévia das músicas do álbum.
-
-  * Favoritar e desfavoritar músicas.
-
-  * Ver a lista de músicas favoritadas.
-
-  * Ver o perfil do usuário logado.
-
-  * Editar o perfil do usuário logado.
+Com essas tecnologias, a aplicação se destaca pela simplicidade e pela experiência fluida oferecida ao usuário, permitindo não apenas a reprodução de músicas, mas também a personalização da experiência de acordo com as preferências individuais.
     
 
 ##  Neste projeto, atestei que sou capaz de:
@@ -39,28 +27,6 @@ Foi desenvolvida uma aplicação capaz de reproduzir músicas dos mais variados 
 
 
   Para garantir a qualidade do código, utilizei os linters `ESLint` e `StyleLint`.
-
-
-  # Requisitos
-  * Criar um formulário para identificação
-  
-  * Criar um formulário para pesquisar artistas
-  
-  * Criar uma lista de músicas do álbum selecionado
-  
-  * Criar um componente de cabeçalho
-  
-  * Criar o mecanismo para adicionar músicas na lista de favoritas
-  
-  * Fazer uma requisição para adicionar e remover múscas da lista de favoritas
-  
-  * Fazer uma requisição para recuperar as músicas favoritadas ao recarregar a página
-
-  * Criar uma página com as músicas favoritas
-
-  * Criar uma página de perfil
-
-  * Criar um formulário para editar o perfil
 
 
 # O que já veio pronto da Trybe
